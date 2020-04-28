@@ -1,5 +1,5 @@
 # CL Breathing
-[![N|Solid](https://i.imgur.com/agZegpm.png)](https://discord.gg/HNcGftj)
+[![N|Solid](https://i.imgur.com/agZegpm.png)](https://discord.gg/Aerfnqd)
 
 Most Immersive Roleplay script available to step up servers roleplay to SERIOUS SERIOUS Roleplay, This will allow you to bring the most immersive overlooked aspect of roleplay into your server that no other server has! This has never been released this has been in the vault for a very long time! Took me days, No Weeks, MONTHS, to create something this amazing.
 
