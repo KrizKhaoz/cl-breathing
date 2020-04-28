@@ -17,11 +17,9 @@ local waitbetweenallowing = 4 * 1000
 
 ```
 ## Installation
-```
 * Make sure you have Mythic Notification [Click Here](https://forum.fivem.net/t/dev-resource-mythic-notifications)
 * Drag and drop cl-breathing into your resource folder
 * Add cl-breathing  to your server.cfg
-```
 
 ## Disclaimer
 Do not redistribute this resource or re-release it without my permission, if you wish to add pull requests you are more than welcome to do so, if you want to alter something and re-release it again **contact me and ask my permission, you are not to redistribute this resource without my permission**.
